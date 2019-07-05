@@ -1,0 +1,14 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan Gerenski",
+  "license": "ISC",
+  "dependencies": {
+    "excalibur": "^0.20.0"
+  }
+}
